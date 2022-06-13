@@ -2,7 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
-#h1{
+.title{
+    margin-top: 100px;
     font-family: 'Poppins', sans-serif;
     text-align: center;
+      }
+
+.image{
+    margin-top: 100px;
       }
